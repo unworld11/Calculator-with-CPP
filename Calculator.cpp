@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	int x, y, z, sum, product, subtract;
-	cout << "Calculator \n";
+	cout << "Calculator :\n";
 	cout << "1 for addition \n";
 	cout << "2 for multiplication \n";
 	cout << "3 for subtraction \n";
