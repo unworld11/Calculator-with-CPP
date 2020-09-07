@@ -28,6 +28,7 @@ int main() {
 		cout << subtract;
 		break;
 	default:
-		cout << "THANKS";
+		cout << "Invalid Input, Try Again!";
+		main();
 	}
 }
